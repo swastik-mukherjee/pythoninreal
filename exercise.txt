@@ -1,0 +1,116 @@
+Exercise 1:
+
+Create a function that prints a welcome message to the user.
+Concept: Non-parameterized, non-returning
+
+
+---
+
+Exercise 2:
+
+Write a function that takes a student's name as a parameter and displays it.
+Concept: Parameterized, non-returning
+
+
+---
+
+Exercise 3:
+
+Create a function that asks the user to enter a student name and returns it.
+Concept: Non-parameterized, returning
+
+
+---
+
+Exercise 4:
+
+Make a function that asks the user for marks of a subject and returns the value.
+Concept: Parameterized, returning
+
+
+---
+
+Exercise 5:
+
+Write a function that calculates the total of three subject marks.
+Concept: Parameterized, returning
+
+
+---
+
+Exercise 6:
+
+Create a function that calculates and returns the average of total marks.
+Concept: Parameterized, returning
+
+
+---
+
+Exercise 7:
+
+Develop a function that returns a grade based on average marks.
+Concept: Parameterized, returning
+
+
+---
+
+Exercise 8:
+
+Design a function that prints the complete student report (name, total, average, grade).
+Concept: Parameterized, non-returning
+
+
+---
+
+Exercise 9:
+
+Create a function that prints subject-wise marks for the student.
+Concept: Parameterized, non-returning
+
+
+---
+
+Exercise 10:
+
+Write a function to validate if the entered marks are within 0 to 100.
+Concept: Parameterized, returning
+
+
+---
+
+Exercise 11:
+
+Build a function that repeatedly asks for valid marks until the user provides them.
+Concept: Uses loop and function calls
+
+
+---
+
+Exercise 12:
+
+Create a function that collects marks for all subjects and returns them.
+Concept: Function composition with return values
+
+
+---
+
+Exercise 13:
+
+Write a function that generates the full report using all the above functions.
+Concept: Integration of multiple functions
+
+
+---
+
+Exercise 14:
+
+Add a function that allows generating reports for multiple students until the user exits.
+Concept: Loop + function reuse
+
+
+---
+
+Exercise 15:
+
+Create a main function that starts the program and calls all other functions as needed.
+Concept: Program entry point and orchestration
