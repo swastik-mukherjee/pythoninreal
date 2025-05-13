@@ -1,6 +1,7 @@
 Exercise 1:
 
-Create a function that prints a welcome message to the user.
+Create a function that prints a 
+welcome message to the user.
 Concept: Non-parameterized, non-returning
 
 
@@ -8,7 +9,9 @@ Concept: Non-parameterized, non-returning
 
 Exercise 2:
 
-Write a function that takes a student's name as a parameter and displays it.
+Write a function that takes a 
+student's name as a parameter 
+and displays it.
 Concept: Parameterized, non-returning
 
 
@@ -16,7 +19,9 @@ Concept: Parameterized, non-returning
 
 Exercise 3:
 
-Create a function that asks the user to enter a student name and returns it.
+Create a function that asks 
+the user to enter a student name 
+and returns it.
 Concept: Non-parameterized, returning
 
 
@@ -32,7 +37,8 @@ Concept: Parameterized, returning
 
 Exercise 5:
 
-Write a function that calculates the total of three subject marks.
+Write a function that calculates the total 
+of three subject marks.
 Concept: Parameterized, returning
 
 
@@ -40,7 +46,8 @@ Concept: Parameterized, returning
 
 Exercise 6:
 
-Create a function that calculates and returns the average of total marks.
+Create a function that calculates and returns the 
+average of total marks.
 Concept: Parameterized, returning
 
 
@@ -48,7 +55,8 @@ Concept: Parameterized, returning
 
 Exercise 7:
 
-Develop a function that returns a grade based on average marks.
+Develop a function that returns a grade based on 
+average marks.
 Concept: Parameterized, returning
 
 
@@ -56,7 +64,8 @@ Concept: Parameterized, returning
 
 Exercise 8:
 
-Design a function that prints the complete student report (name, total, average, grade).
+Design a function that prints the complete student 
+report (name, total, average, grade).
 Concept: Parameterized, non-returning
 
 
@@ -72,7 +81,8 @@ Concept: Parameterized, non-returning
 
 Exercise 10:
 
-Write a function to validate if the entered marks are within 0 to 100.
+Write a function to validate if the 
+entered marks are within 0 to 100.
 Concept: Parameterized, returning
 
 
